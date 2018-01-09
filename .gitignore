@@ -7,6 +7,8 @@
 
 # Java class files
 *.class
+# svn
+*.svn
 
 # generated files
 bin/
@@ -14,6 +16,7 @@ build/
 *.iml
 gen/
 target/
+
 
 # Local configuration files (sdk path, etc)
 local.properties
