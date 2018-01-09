@@ -7,7 +7,8 @@
 
 # Java class files
 *.class
-# svn
+
+# Svn files
 *.svn
 
 # generated files
