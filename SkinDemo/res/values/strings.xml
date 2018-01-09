@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkinDemo</string>
+    <string name="text_color">Text Color</string>
+    <string name="button_color">Button Color</string>
+    <string name="button_skin0">Set Skin 0</string>
+    <string name="button_skin1">Set Skin 1</string>
+    <string name="button_skin2">Set Skin 2</string>
+</resources>

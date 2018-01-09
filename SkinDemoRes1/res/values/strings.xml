@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkinDemo</string>
+    <string name="text_color">Text Color0</string>
+    <string name="button_color">Button Color0</string>
+</resources>

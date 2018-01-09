@@ -1,0 +1,12 @@
+<resources>
+
+    <attr name="title_color_ref" format="reference"/>
+    <attr name="title_color_val" format="color"/>
+    <attr name="auto_set_checked" format="boolean"/>
+    <attr name="auto_set_string" format="string"/>
+    <attr name="auto_set_dimen" format="dimension"/>
+    <attr name="auto_set_int" format="integer"/>
+    <attr name="auto_set_enum" format="enum"/>
+    <attr name="auto_set_float" format="float"/>
+
+</resources>
