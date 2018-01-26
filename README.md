@@ -6,3 +6,4 @@
 update 20180126 增加listSelector、textColorHint、textColorHighlight、textCursorDrawable
                     drawableTop、drawableLeft、drawableRight、drawableBottom、drawableStart
                     drawableEnd、progressDrawable、indeterminateDrawable、thumb
+                等属性支持
